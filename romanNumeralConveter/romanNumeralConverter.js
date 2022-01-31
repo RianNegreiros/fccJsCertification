@@ -30,3 +30,5 @@ function convertToRoman(num) {
     }
     return numeral
 }
+
+console.log(convertToRoman(36))
