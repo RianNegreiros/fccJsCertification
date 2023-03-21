@@ -9,3 +9,5 @@ Complete these 5 JavaScript projects to earn the JavaScript Algorithms and Data 
 - Caesars Cipher
 - Telephone Number Validator
 - Cash Register
+
+[Certication](certification_hyan_javascript-algorithms-and-data-structures.pdf)
